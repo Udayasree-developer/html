@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(243, 197, 205);
+
+}
+h3{
+    font-family: calibri;
+    margin-left: 15px;
+    color:rgb(246, 159, 173);
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.SignIn{
+    background-color: white;
+    width: 400px;
+}
+.SignUp{
+    background-color: rgb(238, 106, 128);
+    align-items: center;
+    width: 350px;
+    color: white;
+    font-family: calibri;
+    text-align: center;
+    padding: 20px;
+}
+#btn{
+    border-radius: 20px;
+    padding: 8px;
+    border:2px solid white;
+    color: white;
+    background-color: rgb(243, 104, 127);
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 230px;
+}
+.label{
+    color:rgb(243, 103, 126);
+    font-family: calibri;
+    padding:15px;
+}
+.input{
+    padding:10px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(241, 107, 129);
+    margin-left: 34px;
+}
+#btn1{
+    border-radius: 20px;
+    padding: 8px;
+    border:2px solid white;
+    color: white;
+    background-color: rgb(243, 104, 127);
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 230px;
+}
+#checkbox{
+    font-family: calibri;
+    color: rgb(245, 106, 129);
+}
+#a{
+    text-decoration: none;
+    margin-left: 50px;
+}

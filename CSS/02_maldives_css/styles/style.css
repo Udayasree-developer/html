@@ -1,0 +1,31 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+    body{
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .input{
+        color:blue;
+        background-color: aquamarine;
+        width: 250px;
+        height: 30px;
+        padding: 5px;
+        margin: 10px;
+        line-height: 10px;
+    }
+    h1{
+        background-color: aqua;
+    }
+    body{
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h1{
+        background-color: aqua;
+    }
+
+    

@@ -1,0 +1,48 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+#para1{
+    color:blue;
+    background-color: aqua;
+    padding: 10px;
+    width: fit-content;
+}
+#para2{
+    color:blueviolet;
+    background-color: aqua;
+    padding: 10px;
+    width: fit-content;
+}
+#para3{
+    color:blue;
+    background-color: aqua;
+    padding: 10px;
+    width: fit-content;
+}
+#para4{
+    color:purple;
+    background-color: aqua;
+    padding: 10px;
+    width: fit-content;
+}
+.input{
+    color:blue;
+    background-color: aquamarine;
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px;
+    line-height: 10px;
+}
+ol{
+    color:red;
+    font-size: 24px;
+}
+ul{
+    color:blue;
+    font-size: 24px;
+}
+*{
+    background-color:rgb(95, 78, 78);
+}

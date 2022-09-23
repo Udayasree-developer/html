@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.login{
+    border-radius: 20px;
+    align-items: center;
+    width: 450px;
+    color: white;
+    font-family: calibri;
+    text-align: center;
+    padding: 20px;
+}

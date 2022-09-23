@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color:white;
+}    
+input[type="text"]{
+    border-radius: 30px;
+}
+input[type="password"]{
+    border-radius: 30px;
+}
+input[type="number"]{
+    border-radius: 30px;
+}
+button{
+    background-color: #f44336;
+}

@@ -1,0 +1,29 @@
+h1{
+    color:black;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.Registration{
+    background-color: rgb(190, 179, 181);
+    border-radius: 20px;
+    align-items: center;
+    width: 450px;
+    color: white;
+    font-family: calibri;
+    text-align: center;
+    padding: 20px;
+}
+.label{
+    color:white;
+    font-family: calibri;
+    padding:15px;
+}
+radio{
+    color:blue;
+    background-color: blue;
+}
+button{
+    background-color:blue;
+}
